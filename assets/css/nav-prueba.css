@@ -1,0 +1,16 @@
+.btn {
+  border-radius: 10px;
+}
+
+.navbar {
+  background: rgba(241, 242, 244, 0.8);
+  border-bottom: 1px solid #dfe3e7 ;
+  backdrop-filter: blur(16px);
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1000px;
+  }
+}
+

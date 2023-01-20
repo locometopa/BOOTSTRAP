@@ -1,0 +1,27 @@
+.btn {
+  border-radius: 10px;
+}
+
+.hero-content {
+  background: #f3f4f5;
+}
+
+@media (min-width: 768px) {
+  .hero-content {
+    background: transparent;
+    height: 500px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .hero-content {
+    height: 600px;
+  }
+}
+
+@media (min-width: 1400px) {
+  .hero-content {
+    height: 800px;
+  }
+}
+
